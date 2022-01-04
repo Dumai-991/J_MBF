@@ -17,3 +17,4 @@ cd J_MBF
 git pull
 python J_MBF.py
 ```
+# JANGAN LUPA DI KASIH BINTANG
